@@ -207,6 +207,7 @@ Public Class NewPatient
         End If
 
         'Add Patient to database
+        'git test
         If mintSave = 0 Then
             'Connie Meng 11/10/13, added "tostring" to the comments text box
             DB.AddNewPatient(txtPatFN.Text, txtPatLN.Text, txtPatAddress.Text, txtPatZip.Text, txtPatPhone.Text, ddlMonth.SelectedItem.ToString & "/" & ddlDay.SelectedItem.ToString & "/" & ddlYear.SelectedItem.ToString, txtPatDriversLis.Text, txtPatSSN.Text, ddlGender.SelectedItem.ToString, txtPatCity.Text, ddlPatState.SelectedItem.ToString, rtbComments.Text.ToString, mintNumberOfRelatives, intEmployerID)
