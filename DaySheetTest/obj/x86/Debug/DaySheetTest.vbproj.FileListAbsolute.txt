@@ -1,0 +1,247 @@
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.All_Patients.resources
+C:\Users\TaylorCook\Documents\Dr. Kalpaxis\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\TaylorCook\Desktop\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dr. Kalpaxis\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dr. Kalpaxis\DaySheetTest\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TaylorCook\Desktop\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\msbcf149\Desktop\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TaylorCook\Desktop\Current\Current\Current\Current\DaySheetTest\DaySheetTest\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientEmployer.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientInsurance.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.test.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddInsurancePaymentTransaction.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddPatientPaymentTransaction.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransactionSelection.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddVisitTransaction.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddWriteOffTransaction.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.CreateManualCPT.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.ChangePassword.resources
+C:\Users\Lindsay\Desktop\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Login.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddInsurancePaymentTransaction.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddPatientPaymentTransaction.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransactionSelection.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddVisitTransaction.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.AddWriteOffTransaction.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.ChangePassword.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.CreateManualCPT.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Login.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientEmployer.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientInsurance.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.test.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\Users\msbcd465\Downloads\374Project\374Project\DaySheetTest\obj\x86\Debug\DaySheetTest.vbproj.GenerateResource.Cache
+C:\DrKalProject\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\DrKalProject\DaySheetTest\bin\Debug\KalpaxisDB.accdb
+C:\DrKalProject\DaySheetTest\bin\Debug\DaySheetTest.exe
+C:\DrKalProject\DaySheetTest\bin\Debug\DaySheetTest.pdb
+C:\DrKalProject\DaySheetTest\bin\Debug\DaySheetTest.xml
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddInsurancePaymentTransaction.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddPatientPaymentTransaction.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransaction.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddTransactionSelection.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddVisitTransaction.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.AddWriteOffTransaction.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.ChangePassword.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.CreateManualCPT.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.DaySheet.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.FeeSchedule.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.FileClaim.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.FindPatient.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.Login.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.MultiplePatients.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientEmployer.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatientInsurance.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.test.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.UnfiledClaims.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.Nursing.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.PatientLedger.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.Home.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.Resources.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\DaySheetTest.NewPatient.resources
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DrKalProject\DaySheetTest\obj\x86\Debug\GenerateResource.write.1.tlog

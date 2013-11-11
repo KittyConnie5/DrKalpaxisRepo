@@ -1,0 +1,648 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DaySheetTest
+</name>
+</assembly>
+<members>
+<member name="T:DaySheetTest.KalpaxisDBDataSet5.tblFeeScheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5.tblFeeScheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5.tblFeeScheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5TableAdapters.tblFeeScheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8.tblInsuranceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8.tblInsuranceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8.tblInsuranceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8TableAdapters.tblInsuranceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet8)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet8TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2.tblPatientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2.tblPatientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2.tblPatientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2TableAdapters.tblPatientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10.tblTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10.tblTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10.tblTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10TableAdapters.tblTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet10,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet10)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet10TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet.tblPatientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet.tblPatientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet.tblPatientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSetTableAdapters.tblPatientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:DaySheetTest.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DaySheetTest.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DaySheetTest.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4.tblTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4.tblTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4.tblTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4TableAdapters.tblTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7.tblInsuranceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7.tblInsuranceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7.tblInsuranceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7TableAdapters.tblInsuranceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1.tblPatientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1.tblPatientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1.tblPatientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1TableAdapters.tblPatientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6.tblTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6.tblTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6.tblTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6TableAdapters.tblTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9.tblInsuranceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9.tblInsuranceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9.tblInsuranceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9TableAdapters.tblInsuranceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet9)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet9TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3.tblPatientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3.tblPatientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3.tblPatientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3TableAdapters.tblPatientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11.tblInsuranceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11.tblInsuranceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11.tblInsuranceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11TableAdapters.tblInsuranceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.UpdateUpdatedRows(DaySheetTest.KalpaxisDBDataSet11,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.UpdateInsertedRows(DaySheetTest.KalpaxisDBDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.UpdateDeletedRows(DaySheetTest.KalpaxisDBDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.UpdateAll(DaySheetTest.KalpaxisDBDataSet11)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DaySheetTest.KalpaxisDBDataSet11TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
