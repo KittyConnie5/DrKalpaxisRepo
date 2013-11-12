@@ -170,6 +170,17 @@ Public Class NewPatientInsurance
             Exit Sub
         End If
 
+        'Connie Meng, 11/11 Make sure Insurance and group id are not greater thatn 50
+        If txtInsGroup.Text.Length > 50 Then
+            MsgBox("Insurance Group# cannot be greater than 50 characters")
+            Exit Sub
+        End If
+
+        If txtInsuranceID.Text.Length > 50 Then
+            MsgBox("Insurance ID cannot be greater than 50 characters")
+            Exit Sub
+        End If
+
         'Required Insurance Info    
         If txtPriInsName.Text = "" Then
             MessageBox.Show("Please enter the primary insurance provider.")
