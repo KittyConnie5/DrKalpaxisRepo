@@ -204,8 +204,8 @@ Public Class NewPatientInsurance
                 Exit Sub
             End If
         End If
-
-        If txtSecInsName.Text <> "" And txtSecInsName.Text <> " " Then
+        'Connie Meng 11/11 Made sure that if none of them were blank. to add validations
+        If (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsAddress.Text <> "" And txtSecInsAddress.Text <> " ") Or (txtSecInsCity.Text <> "" And txtSecInsCity.Text <> " ") Or (txtSecInsGroupNo.Text <> "" And txtSecInsGroupNo.Text <> " ") Or (txtSecInsID.Text <> "" And txtSecInsID.Text <> " ") Or (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsPhone.Text <> "" And txtSecInsPhone.Text <> " ") Or (txtSecInsZip.Text <> "" And txtSecInsZip.Text <> " ") Then
             'Make sure ID# and Group# are entered
             If txtSecInsID.Text = "" Or txtSecInsID.Text = " " Then
                 MessageBox.Show("Please enter ID# for Secondary Insurance Provider")
@@ -240,7 +240,8 @@ Public Class NewPatientInsurance
 
         'save
         'Add Primary Insurance Info to database if filled out
-        If txtPriInsName.Text <> "" Then
+        'Connie Meng 11/11 Added more validations
+        If (txtPriInsName.Text <> "" And txtPriInsName.Text <> " ") Or (txtClaimsAddress.Text <> "" And txtClaimsAddress.Text <> " ") Or (txtClaimsCity.Text <> "" And txtClaimsCity.Text <> " ") Or (txtClaimsPhone.Text <> "" And txtClaimsPhone.Text <> " ") Or (txtClaimsZip.Text <> "" And txtClaimsZip.Text <> " ") Or (txtInsGroup.Text <> "" And txtInsGroup.Text <> " ") Or (txtInsuranceID.Text <> "" And txtInsuranceID.Text <> " ") Then
             If mintSave = 0 Then
                 DB.AddInsurance(txtPriInsName.Text, txtInsuranceID.Text, txtInsGroup.Text, txtClaimsAddress.Text, txtClaimsCity.Text, ddlInsState.SelectedItem.ToString, txtClaimsZip.Text, txtClaimsPhone.Text, intPatientID, "1")
             Else
@@ -248,7 +249,7 @@ Public Class NewPatientInsurance
             End If
         End If
         'Add Secondary Insurance Info to database if filled out
-        If txtSecInsName.Text <> "" Then
+        If (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsAddress.Text <> "" And txtSecInsAddress.Text <> " ") Or (txtSecInsCity.Text <> "" And txtSecInsCity.Text <> " ") Or (txtSecInsGroupNo.Text <> "" And txtSecInsGroupNo.Text <> " ") Or (txtSecInsID.Text <> "" And txtSecInsID.Text <> " ") Or (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsPhone.Text <> "" And txtSecInsPhone.Text <> " ") Or (txtSecInsZip.Text <> "" And txtSecInsZip.Text <> " ") Then
             If mintSave = 0 Then
                 DB.AddInsurance(txtSecInsName.Text, txtSecInsID.Text, txtSecInsGroupNo.Text, txtSecInsAddress.Text, txtSecInsCity.Text, ddlSecInsState.SelectedItem.ToString, txtSecInsZip.Text, txtSecInsPhone.Text, intPatientID, "2")
             Else
@@ -258,7 +259,8 @@ Public Class NewPatientInsurance
 
 
         'Add Tertiary Insurance Info to database if filled out
-        If txtTerInsName.Text <> "" Then
+        'Connie Meng 11/11
+        If (txtTerInsAddress.Text <> "" And txtTerInsAddress.Text <> " ") Or (txtTerInsCity.Text <> "" And txtTerInsCity.Text <> " ") Or (txtTerInsGroupNo.Text <> "" And txtTerInsGroupNo.Text <> " ") Or (txtTerInsID.Text <> "" And txtTerInsID.Text <> " ") Or (txtTerInsName.Text <> "" And txtTerInsName.Text <> " ") Or (txtTerInsPhone.Text <> "" And txtTerInsPhone.Text <> " ") Or (txtTerInsZip.Text <> "" And txtTerInsZip.Text <> " ") Then
             If mintSave = 0 Then
                 DB.AddInsurance(txtTerInsName.Text, txtTerInsID.Text, txtTerInsGroupNo.Text, txtTerInsAddress.Text, txtTerInsCity.Text, ddlTerInsState.SelectedItem.ToString, txtTerInsZip.Text, txtTerInsPhone.Text, intPatientID, "3")
             Else
