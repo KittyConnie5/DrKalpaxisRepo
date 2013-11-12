@@ -9,7 +9,7 @@ Public Class ClassDB
     '//// CHANGE CONNECTION STRING HERE ----->
     '//// Change after Source=<insert your source here>;
     'Dim mstrConnection As String = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source=C:\Users\Lindsay\Desktop\374Project\DaySheetTest\KalpaxisDB.accdb;"
-    Dim mstrConnection As String = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source=" + Directory.GetCurrentDirectory().ToString + "KalpaxisDB.accdb;"
+    Dim mstrConnection As String = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source=" + Directory.GetCurrentDirectory().ToString + "\KalpaxisDB.accdb;"
     Dim cmd As OleDbCommand
     Dim mDataReader As OleDbDataReader
     Dim mDataAdapter As OleDbDataAdapter
