@@ -249,3 +249,7 @@ C:\DrKalpaxisRepo\DaySheetTest\bin\Debug\DaySheetTest.exe.config
 C:\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
 C:\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
 C:\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
+C:\Users\Connie\Documents\GitHub\DrKalpaxisRepo\DaySheetTest\bin\Debug\DaySheetTest.exe.config
+C:\Users\Connie\Documents\GitHub\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.exe
+C:\Users\Connie\Documents\GitHub\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.xml
+C:\Users\Connie\Documents\GitHub\DrKalpaxisRepo\DaySheetTest\obj\x86\Debug\DaySheetTest.pdb
