@@ -77,7 +77,15 @@ Public Class NewPatientEmployer
             MessageBox.Show("Zip code must be numeric")
             Exit Sub
         End If
-
+        'Alpana
+        If Val.CheckAlphaNumeric(txtEmployer.Text) = False Then
+            MessageBox.Show("Employer name must be alpha-numeric.")
+            Exit Sub
+        End If
+        If Val.CheckAlphaNumeric(txtSpouseEmp.Text) = False Then
+            MessageBox.Show("Employer name must be alpha-numeric.")
+            Exit Sub
+        End If
         If Val.checkzipcode(txtSpouseEmpZip.Text) = False Then
             MessageBox.Show("Zip code must be numeric")
             Exit Sub
@@ -143,6 +151,124 @@ Public Class NewPatientEmployer
             Exit Sub
         End If
 
+        '!!!!!!!!!!!!!Required Address fields - alpana
+        'if patient employer address entered: require city, st, and zip
+        If txtEmployer.Text <> "" Then
+            If txtPatEmpAddress.Text <> "" Then
+                If txtEmpCity.Text = "" Then
+                    MessageBox.Show("Patient Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+                If ddlEmpState.SelectedIndex = 0 Then
+                    MessageBox.Show("Patient Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+                If txtEmpZip.Text = "" Then
+                    MessageBox.Show("Patient Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+            End If
+            'if Employer zip code, city, or state entered, then address should be entered as well
+            If txtEmpCity.Text <> "" And txtPatEmpAddress.Text = "" Then
+                MessageBox.Show("Patient Employer address is required")
+                Exit Sub
+            End If
+
+            If txtEmpZip.Text <> "" And txtPatEmpAddress.Text = "" Then
+                MessageBox.Show("Patient Employer address is required")
+                Exit Sub
+            End If
+
+            If ddlEmpState.SelectedIndex = 0 And txtPatEmpAddress.Text = "" Then
+                MessageBox.Show("Patient Employer address is required")
+                Exit Sub
+            End If
+
+            If txtEmpPhone.Text <> "" And txtEmployer.Text = "" Then
+                MessageBox.Show("Employer name is required.")
+                Exit Sub
+            End If
+        End If
+
+
+        If txtSpouseEmp.Text <> "" Then
+            'if Spouse employer address entered: require city, st, and zip
+            If txtSpouseEmpAddress.Text <> "" Then
+                If txtEmpCity.Text = "" Then
+                    MessageBox.Show("Spouse Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+                If ddlSpouseEmpState.SelectedIndex = 0 Then
+                    MessageBox.Show("Spouse Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+                If txtSpouseEmpZip.Text = "" Then
+                    MessageBox.Show("Spouse Employer city, state and zip code is required")
+                    Exit Sub
+                End If
+            End If
+
+            'if Spouse zip code, city, or state entered, then address should be entered as well
+            If txtSpouseEmpCity.Text <> "" And txtSpouseEmpAddress.Text = "" Then
+                MessageBox.Show("Spouse Employer address is required")
+                Exit Sub
+            End If
+            If txtSpouseEmpZip.Text <> "" And txtSpouseEmpAddress.Text = "" Then
+                MessageBox.Show("Spouse Employer address is required")
+                Exit Sub
+            End If
+            If ddlSpouseEmpState.SelectedIndex = 0 And txtSpouseEmpAddress.Text = "" Then
+                MessageBox.Show("Spouse Employer address is required.")
+                Exit Sub
+            End If
+            If txtSpouseEmpPhone.Text <> "" And txtSpouseEmp.Text = "" Then
+                MessageBox.Show("Spouse Employer name is required.")
+                Exit Sub
+            End If
+        End If
+
+        If txtNRfirstname.Text <> "" Then
+            'if NR address entered: require city, st, and zip
+            If txtNRCity.Text <> "" Then
+                If txtNRCity.Text = "" Then
+                    MessageBox.Show("Nearest relative's city, state and zip code is required")
+                    Exit Sub
+                End If
+                If ddlNRstate.SelectedIndex = 0 Then
+                    MessageBox.Show("Nearest relative's city, state and zip code is required")
+                    Exit Sub
+                End If
+                If txtNRZip.Text = "" Then
+                    MessageBox.Show("Nearest relative's city, state and zip code is required")
+                    Exit Sub
+                End If
+            End If
+
+            'if NR zip code, city, or state entered, then address should be entered as well
+            If txtNRCity.Text <> "" And txtNRAddress.Text = "" Then
+                MessageBox.Show("Nearest relative's address is required")
+                Exit Sub
+            End If
+            If txtNRZip.Text <> "" And txtNRAddress.Text = "" Then
+                MessageBox.Show("Nearest relative's address is required")
+                Exit Sub
+            End If
+            If ddlNRstate.SelectedIndex = 0 And txtNRAddress.Text = "" Then
+                MessageBox.Show("Nearest relative's address is required")
+                Exit Sub
+            End If
+
+            If txtNRRelation.Text <> "" And txtNRfirstname.Text = "" And txtNRlastname.Text = "" Then
+                MessageBox.Show("Nearest relative's name is required")
+                Exit Sub
+            End If
+
+            If txtNRPhone.Text <> "" And txtNRfirstname.Text = "" And txtNRlastname.Text = "" Then
+                MessageBox.Show("Nearest relative's name is required")
+                Exit Sub
+            End If
+        End If
+        '!!!!!!!!!!!!end req address fields
         'Address
         'If Val.CheckAlphaNumeric(txtPatEmpAddress.Text) = False Then
         '    MessageBox.Show("Address must be alpha-numeric. If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
@@ -152,14 +278,7 @@ Public Class NewPatientEmployer
         '    MessageBox.Show("Address must be alpha-numeric. If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
         '    Exit Sub
         'End If
-        If Val.CheckAlphaNumeric(txtEmployer.Text) = False Then
-            MessageBox.Show("Employer name must be alpha-numeric.")
-            Exit Sub
-        End If
-        If Val.CheckAlphaNumeric(txtSpouseEmp.Text) = False Then
-            MessageBox.Show("Employer name must be alpha-numeric.")
-            Exit Sub
-        End If
+
         'If Val.CheckAlphaNumeric(txtSpouseEmpAddress.Text) = False Then
         '    MessageBox.Show("Address must be alpha-numeric. If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
         '    Exit Sub

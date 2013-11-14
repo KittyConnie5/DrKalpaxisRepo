@@ -81,6 +81,8 @@ Partial Class NewPatientEmployer
         Me.Label17 = New System.Windows.Forms.Label()
         Me.btnEdit = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.gbNearestRelative.SuspendLayout()
         Me.gbEmployer.SuspendLayout()
         Me.gbSpouse.SuspendLayout()
@@ -270,7 +272,7 @@ Partial Class NewPatientEmployer
         Me.ddlNRstate.FormattingEnabled = True
         Me.ddlNRstate.Items.AddRange(New Object() {"--", "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI"})
         Me.ddlNRstate.Location = New System.Drawing.Point(221, 81)
-        Me.ddlNRstate.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ddlNRstate.Margin = New System.Windows.Forms.Padding(2)
         Me.ddlNRstate.Name = "ddlNRstate"
         Me.ddlNRstate.Size = New System.Drawing.Size(41, 21)
         Me.ddlNRstate.TabIndex = 5
@@ -294,9 +296,9 @@ Partial Class NewPatientEmployer
         Me.gbNearestRelative.Controls.Add(Me.Label22)
         Me.gbNearestRelative.Controls.Add(Me.txtNRCity)
         Me.gbNearestRelative.Location = New System.Drawing.Point(20, 327)
-        Me.gbNearestRelative.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbNearestRelative.Margin = New System.Windows.Forms.Padding(2)
         Me.gbNearestRelative.Name = "gbNearestRelative"
-        Me.gbNearestRelative.Padding = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbNearestRelative.Padding = New System.Windows.Forms.Padding(2)
         Me.gbNearestRelative.Size = New System.Drawing.Size(359, 131)
         Me.gbNearestRelative.TabIndex = 51
         Me.gbNearestRelative.TabStop = False
@@ -391,7 +393,7 @@ Partial Class NewPatientEmployer
         Me.ddlEmpState.FormattingEnabled = True
         Me.ddlEmpState.Items.AddRange(New Object() {"--", "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI"})
         Me.ddlEmpState.Location = New System.Drawing.Point(222, 58)
-        Me.ddlEmpState.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ddlEmpState.Margin = New System.Windows.Forms.Padding(2)
         Me.ddlEmpState.Name = "ddlEmpState"
         Me.ddlEmpState.Size = New System.Drawing.Size(40, 21)
         Me.ddlEmpState.TabIndex = 3
@@ -399,7 +401,7 @@ Partial Class NewPatientEmployer
         'txtPatEmpAddress
         '
         Me.txtPatEmpAddress.Location = New System.Drawing.Point(120, 36)
-        Me.txtPatEmpAddress.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.txtPatEmpAddress.Margin = New System.Windows.Forms.Padding(2)
         Me.txtPatEmpAddress.MaxLength = 100
         Me.txtPatEmpAddress.Name = "txtPatEmpAddress"
         Me.txtPatEmpAddress.Size = New System.Drawing.Size(224, 20)
@@ -430,9 +432,9 @@ Partial Class NewPatientEmployer
         Me.gbEmployer.Controls.Add(Me.Label21)
         Me.gbEmployer.Controls.Add(Me.Label20)
         Me.gbEmployer.Location = New System.Drawing.Point(19, 50)
-        Me.gbEmployer.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbEmployer.Margin = New System.Windows.Forms.Padding(2)
         Me.gbEmployer.Name = "gbEmployer"
-        Me.gbEmployer.Padding = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbEmployer.Padding = New System.Windows.Forms.Padding(2)
         Me.gbEmployer.Size = New System.Drawing.Size(358, 104)
         Me.gbEmployer.TabIndex = 50
         Me.gbEmployer.TabStop = False
@@ -443,7 +445,7 @@ Partial Class NewPatientEmployer
         Me.btnClear.BackgroundImage = Global.DaySheetTest.My.Resources.Resources.Clear
         Me.btnClear.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.btnClear.Location = New System.Drawing.Point(388, 261)
-        Me.btnClear.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnClear.Margin = New System.Windows.Forms.Padding(2)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(44, 47)
         Me.btnClear.TabIndex = 62
@@ -457,7 +459,7 @@ Partial Class NewPatientEmployer
         Me.btnCancel.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnCancel.ForeColor = System.Drawing.Color.Red
         Me.btnCancel.Location = New System.Drawing.Point(388, 369)
-        Me.btnCancel.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnCancel.Margin = New System.Windows.Forms.Padding(2)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(44, 47)
         Me.btnCancel.TabIndex = 64
@@ -469,7 +471,7 @@ Partial Class NewPatientEmployer
         Me.btnSave.BackgroundImage = CType(resources.GetObject("btnSave.BackgroundImage"), System.Drawing.Image)
         Me.btnSave.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.btnSave.Location = New System.Drawing.Point(388, 61)
-        Me.btnSave.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnSave.Margin = New System.Windows.Forms.Padding(2)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(44, 47)
         Me.btnSave.TabIndex = 60
@@ -497,9 +499,9 @@ Partial Class NewPatientEmployer
         Me.gbSpouse.Controls.Add(Me.Label16)
         Me.gbSpouse.Controls.Add(Me.Label17)
         Me.gbSpouse.Location = New System.Drawing.Point(20, 166)
-        Me.gbSpouse.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbSpouse.Margin = New System.Windows.Forms.Padding(2)
         Me.gbSpouse.Name = "gbSpouse"
-        Me.gbSpouse.Padding = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.gbSpouse.Padding = New System.Windows.Forms.Padding(2)
         Me.gbSpouse.Size = New System.Drawing.Size(357, 146)
         Me.gbSpouse.TabIndex = 67
         Me.gbSpouse.TabStop = False
@@ -539,7 +541,7 @@ Partial Class NewPatientEmployer
         Me.ddlSpouseGender.FormattingEnabled = True
         Me.ddlSpouseGender.Items.AddRange(New Object() {"--", "M", "F"})
         Me.ddlSpouseGender.Location = New System.Drawing.Point(118, 40)
-        Me.ddlSpouseGender.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ddlSpouseGender.Margin = New System.Windows.Forms.Padding(2)
         Me.ddlSpouseGender.Name = "ddlSpouseGender"
         Me.ddlSpouseGender.Size = New System.Drawing.Size(220, 21)
         Me.ddlSpouseGender.TabIndex = 2
@@ -551,7 +553,7 @@ Partial Class NewPatientEmployer
         Me.ddlSpouseEmpState.FormattingEnabled = True
         Me.ddlSpouseEmpState.Items.AddRange(New Object() {"--", "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI"})
         Me.ddlSpouseEmpState.Location = New System.Drawing.Point(222, 101)
-        Me.ddlSpouseEmpState.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.ddlSpouseEmpState.Margin = New System.Windows.Forms.Padding(2)
         Me.ddlSpouseEmpState.Name = "ddlSpouseEmpState"
         Me.ddlSpouseEmpState.Size = New System.Drawing.Size(40, 21)
         Me.ddlSpouseEmpState.TabIndex = 6
@@ -679,7 +681,7 @@ Partial Class NewPatientEmployer
         Me.btnEdit.BackgroundImage = Global.DaySheetTest.My.Resources.Resources.Edi
         Me.btnEdit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.btnEdit.Location = New System.Drawing.Point(388, 157)
-        Me.btnEdit.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnEdit.Margin = New System.Windows.Forms.Padding(2)
         Me.btnEdit.Name = "btnEdit"
         Me.btnEdit.Size = New System.Drawing.Size(44, 47)
         Me.btnEdit.TabIndex = 68
@@ -696,11 +698,35 @@ Partial Class NewPatientEmployer
         Me.Label1.TabIndex = 69
         Me.Label1.Text = "Edit"
         '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(135, 151)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(140, 13)
+        Me.Label3.TabIndex = 73
+        Me.Label3.Text = "No dashes, i.e. 5120005555"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(136, 310)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(140, 13)
+        Me.Label2.TabIndex = 74
+        Me.Label2.Text = "No dashes, i.e. 5120005555"
+        '
         'NewPatientEmployer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(445, 468)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnEdit)
         Me.Controls.Add(Me.gbSpouse)
@@ -713,7 +739,7 @@ Partial Class NewPatientEmployer
         Me.Controls.Add(Me.Label25)
         Me.Controls.Add(Me.gbEmployer)
         Me.Controls.Add(Me.gbNearestRelative)
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "NewPatientEmployer"
         Me.Text = "New Patient - Other Contact Information"
         Me.gbNearestRelative.ResumeLayout(False)
@@ -784,4 +810,6 @@ Partial Class NewPatientEmployer
     Friend WithEvents Label17 As System.Windows.Forms.Label
     Friend WithEvents btnEdit As System.Windows.Forms.Button
     Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
 End Class

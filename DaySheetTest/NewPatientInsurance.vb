@@ -130,19 +130,19 @@ Public Class NewPatientInsurance
             End If
         End If
 
-        'Address
-        'If Val.CheckAlphaNumeric(txtClaimsAddress.Text) = False Then
-        '    MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
-        '    Exit Sub
-        'End If
-        'If Val.CheckAlphaNumeric(txtSecInsAddress.Text) = False Then
-        '    MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
-        '    Exit Sub
-        'End If
-        'If Val.CheckAlphaNumeric(txtTerInsAddress.Text) = False Then
-        '    MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
-        '    Exit Sub
-        'End If
+        'Address-Alpana uncommented this code
+        If Val.CheckAlphaNumeric(txtClaimsAddress.Text) = False Then
+            MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
+            Exit Sub
+        End If
+        If Val.CheckAlphaNumeric(txtSecInsAddress.Text) = False Then
+            MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
+            Exit Sub
+        End If
+        If Val.CheckAlphaNumeric(txtTerInsAddress.Text) = False Then
+            MessageBox.Show("Address must be alpha-numeric.  If you are trying to add an apartment number or Suite, please use 'Apt' or 'Suite'.")
+            Exit Sub
+        End If
 
         'Insurance 
         If Val.CheckAlphaNumeric(txtInsuranceID.Text) = False Then
@@ -187,9 +187,9 @@ Public Class NewPatientInsurance
             Exit Sub
         End If
         If txtPriInsName.Text <> "" And txtPriInsName.Text <> " " Then
-            'Make sure ID# and Group# are entered
-            If txtInsuranceID.Text = "" Or txtInsuranceID.Text = " " Then
-                MessageBox.Show("Please enter ID# for Primary Insurance Provider")
+            'Make sure ID# or Group# are entered
+            If (txtInsuranceID.Text = "" Or txtInsuranceID.Text = " ") And (txtInsGroup.Text = "" Or txtInsGroup.Text = " ") Then
+                MessageBox.Show("Please enter ID# or Group number for Primary Insurance Provider")
                 Exit Sub
             End If
             'If txtInsGroup.Text = "" Or txtInsGroup.Text = " " Then
@@ -204,11 +204,12 @@ Public Class NewPatientInsurance
                 Exit Sub
             End If
         End If
-        'Connie Meng 11/11 Made sure that if none of them were blank. to add validations
-        If (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsAddress.Text <> "" And txtSecInsAddress.Text <> " ") Or (txtSecInsCity.Text <> "" And txtSecInsCity.Text <> " ") Or (txtSecInsGroupNo.Text <> "" And txtSecInsGroupNo.Text <> " ") Or (txtSecInsID.Text <> "" And txtSecInsID.Text <> " ") Or (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsPhone.Text <> "" And txtSecInsPhone.Text <> " ") Or (txtSecInsZip.Text <> "" And txtSecInsZip.Text <> " ") Then
-            'Make sure ID# and Group# are entered
-            If txtSecInsID.Text = "" Or txtSecInsID.Text = " " Then
-                MessageBox.Show("Please enter ID# for Secondary Insurance Provider")
+        'Connie Meng 11/11 Made sure that if name is written, then there must either be a group nimber or ID
+        If (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Then
+            'Or (txtSecInsAddress.Text <> "" And txtSecInsAddress.Text <> " ") Or (txtSecInsCity.Text <> "" And txtSecInsCity.Text <> " ") Or (txtSecInsGroupNo.Text <> "" And txtSecInsGroupNo.Text <> " ") Or (txtSecInsID.Text <> "" And txtSecInsID.Text <> " ") Or (txtSecInsName.Text <> "" And txtSecInsName.Text <> " ") Or (txtSecInsPhone.Text <> "" And txtSecInsPhone.Text <> " ") Or (txtSecInsZip.Text <> "" And txtSecInsZip.Text <> " ") 
+            'Make sure ID# OR Group# are entered
+            If (txtSecInsID.Text = "" Or txtSecInsID.Text = " ") And (txtSecInsGroupNo.Text = "" Or txtSecInsGroupNo.Text = " ") Then
+                MessageBox.Show("Please enter ID# or Group Number for Secondary Insurance Provider")
                 Exit Sub
             End If
             'If txtSecInsGroupNo.Text = "" Or txtSecInsGroupNo.Text = " " Then
