@@ -154,7 +154,7 @@ Public Class NewPatientEmployer
         '!!!!!!!!!!!!!Required Address fields - alpana
         'if patient employer address entered: require city, st, and zip
         If txtEmployer.Text <> "" Then
-            If txtPatEmpAddress.Text <> "" Then
+            If txtPatEmpAddress.Text <> "" Or txtPatEmpAddress.Text <> "" Or txtEmpCity.Text <> "" Or txtEmpZip.Text <> "" Or ddlEmpState.SelectedIndex = 0 Then
                 If txtEmpCity.Text = "" Then
                     MessageBox.Show("Patient Employer city, state and zip code is required")
                     Exit Sub
@@ -193,8 +193,8 @@ Public Class NewPatientEmployer
 
         If txtSpouseEmp.Text <> "" Then
             'if Spouse employer address entered: require city, st, and zip
-            If txtSpouseEmpAddress.Text <> "" Then
-                If txtEmpCity.Text = "" Then
+            If txtSpouseEmpAddress.Text <> "" Or txtSpouseEmpCity.Text <> "" Or txtSpouseEmpZip.Text <> "" Or ddlSpouseEmpState.SelectedIndex = 0 Then
+                If txtSpouseEmpCity.Text = "" Then
                     MessageBox.Show("Spouse Employer city, state and zip code is required")
                     Exit Sub
                 End If
@@ -229,7 +229,7 @@ Public Class NewPatientEmployer
 
         If txtNRfirstname.Text <> "" Then
             'if NR address entered: require city, st, and zip
-            If txtNRCity.Text <> "" Then
+            If txtNRCity.Text <> "" Or txtNRAddress.Text <> "" Or txtNRZip.Text <> "" Or ddlNRstate.SelectedIndex = 0 Then
                 If txtNRCity.Text = "" Then
                     MessageBox.Show("Nearest relative's city, state and zip code is required")
                     Exit Sub
